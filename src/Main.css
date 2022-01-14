@@ -1,0 +1,19 @@
+.comp div {
+  display: inline-block;
+}
+.heading {
+  background-color: lightblue;
+  padding: 10px;
+  text-align: center;
+  margin: 40px 0px;
+}
+
+.window {
+  background-color: rgb(65, 194, 245);
+}
+.middle {
+  background-color: #ffc34d;
+}
+.aisle {
+  background-color: #66ad1f;
+}

@@ -1,0 +1,31 @@
+.compdiv {
+  background-color: lightblue;
+  text-align: center;
+  width: 100%;
+}
+.lcomp {
+  width: 320px;
+  margin-right: 175px;
+  float: left;
+}
+.rcomp {
+  width: 320px;
+  float: right;
+}
+
+.mcomp {
+  width: 430px;
+}
+.table {
+  margin-top: 20px;
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.table td {
+  border: 1px solid black;
+  text-align: center;
+  height: 23px;
+  width: 106px;
+  margin-bottom: 10px;
+}
